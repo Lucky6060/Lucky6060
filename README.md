@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucky</h1>
 <h3 align="center">I'm not so good at coding</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🐵
 
-- ⚡ Fun fact **I think i'm funny**
+- ⚡ LMAO**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
